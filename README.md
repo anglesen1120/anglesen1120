@@ -72,7 +72,7 @@
 - [Deno 1.0 Released! (Easy) REST API Example](https://dev.to/codestackr/deno-1-0-released-easy-rest-api-example-2fbl) -->
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](http://sale-inventory.info)
+➡️ [more blog posts...](https://codelearningblog.com/)
 
 ---
 
