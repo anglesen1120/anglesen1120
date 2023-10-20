@@ -58,7 +58,7 @@
 - [Next Level GitHub Profile README (NEW) | How To Create An Amazing Profile ReadMe With GitHub Actions](https://www.youtube.com/watch?v=ECuqb5Tv9qI) -->
 <!-- YOUTUBE:END -->
 
-➡️ [more videos...](http://sale-inventory.info)
+➡️ [more videos...](https://devproinsights.com/)
 
 ---
 
@@ -72,7 +72,7 @@
 - [Deno 1.0 Released! (Easy) REST API Example](https://dev.to/codestackr/deno-1-0-released-easy-rest-api-example-2fbl) -->
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://codelearningblog.com/)
+➡️ [more blog posts...](https://devproinsights.com/)
 
 ---
 
