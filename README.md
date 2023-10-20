@@ -96,7 +96,7 @@
 
 </details>
 
-[website]: http://sale-inventory.info/dashboard-report
+[website]: https://devproinsights.com/
 [twitter]: https://twitter.com/anglesen1120
 [instagram]: https://instagram.com/anglesen1120
 [linkedin]: https://www.linkedin.com/in/tuấn-nguyễn-30503374/
